@@ -1,5 +1,5 @@
 def student1Function():
-  retun "something witty"
+  return "something witty"
 pass
 
 def student2Function():
