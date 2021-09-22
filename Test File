@@ -1,8 +1,9 @@
 def student1Function():
-  return "something witty"
+  retun "something witty"
 pass
 
 def student2Function():
+  retur "Noah did this"
 pass
 
 def studentNFunction():
